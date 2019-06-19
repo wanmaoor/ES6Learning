@@ -16,3 +16,9 @@ console.log(map.get(json));
 //delete
 map.delete(json);
 console.log(map);
+
+//size
+console.log(map.size);
+
+//has
+console.log(map.has("your are"));
